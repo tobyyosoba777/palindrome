@@ -45,6 +45,6 @@ function palindromeee() {
         resultElement.textContent = "String is a palindrome";
     }
     else {
-        resultElement.textContent = "String is not a palindrome"
+        resultElement.textContent = "String is not a "
     }
 }
